@@ -1,0 +1,97 @@
+ .h{
+    background-image: url(../images/pg4.jpeg);
+   
+ }  
+
+ .carousel-inner{
+    height: 100vh;
+    width: 30%;
+}
+.carsouel-item{
+    height: 100%;
+    width: 450px;
+}
+.carousel-item img{
+    height: 100%;
+    width: 450px;
+}
+.cards{
+    
+    display: flex;
+    justify-content: space-around;
+}
+.card img{
+    height: 200px;
+    width: 300px;
+
+}
+.card2{
+    border: 1px ridge black;
+    text-align: center;
+}
+.cd a{
+    color: white;
+
+}
+.cd{
+    box-shadow: 0px 0px 30px black;
+
+}
+.card2 img{
+    height: 200px;
+    width: 250px;
+}
+.h{
+  position: absolute        ; 
+width: 100%;
+}
+.video{
+    text-align: center;
+    justify-content: center;
+    
+
+}
+.click{
+   justify-content: center;
+   text-align: center;
+   
+   
+   
+}
+.home-page{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+}
+.left{
+    width: 40%;
+    }
+
+.right{
+    width: 40%;
+}
+
+.right img{
+    width: 100%;
+    height: 100%;
+}    
+.left h2{
+    font-size: 50px;
+    color: #DC3545;
+}
+
+.left p{
+    margin: 25px 0;
+    font-size: 19px;    
+}
+.card4 img{
+     background-size: 100% 100%;
+
+    width: 300px;
+    height:300px;
+}
+.card3 img{
+    width: 300px;
+    height:300px;
+}
